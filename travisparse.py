@@ -19,7 +19,8 @@ for i in f :
 	if head == 0:
 		break
 		
-print(project_names)
+for key in project_names:
+	print(key)
 print(len(project_names.keys()))
 total = 0
 
