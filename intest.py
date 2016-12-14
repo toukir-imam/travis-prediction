@@ -6,3 +6,4 @@ def intest2():
     
 intest1()
 initest2()
+initest2()
