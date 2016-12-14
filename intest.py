@@ -1,5 +1,5 @@
 import sys
-def test1():
+def intest1():
     sys.exit(0)
 
-test1()
+intest1()
